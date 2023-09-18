@@ -1,0 +1,196 @@
+{
+  "Audiovideo": [
+    {
+      "id": 1,
+      "Category": "Audio&Video",
+      "Product Title": "OLED C1 Series 55” 4k Smart TV (3840 x 2160), 120Hz Refresh Rate, AI-Powered 4K, Dolby Cinema, WiSA Ready, Gaming Mode",
+      "Price": "$1,249.00",
+      "Product Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac massa eget urna tempor vehicula vel id nisi. Pellentesque sed felis auctor, molestie lectus vitae, elementum orci. In et nunc consequat, semper.",
+      "Product Features": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.",
+        "Nunc sed justo at nisi commodo varius",
+        "Ut eu urna enim. Curabitur posuere fermentum",
+        "Curabitur at orci nec urna aliquet porta"
+      ]
+    },
+    {
+      "id": 2,
+      "Category": "Audio&Video",
+      "Product Title": "V-Series 5.1 Home Theater Sound Bar with Dolby Audio, Bluetooth, Wireless Subwoofer, Voice Assistant Compatible",
+      "Price": "$749.00",
+      "Product Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac massa eget urna tempor vehicula vel id nisi. Pellentesque sed felis auctor, molestie lectus vitae, elementum orci. In et nunc consequat, semper.",
+      "Product Features": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis."
+      ]
+    }
+  ],
+  "Refrigerator": [
+    {
+      "id": 1,
+      "Category": "Refrigerator",
+      "Product Title": "2 Door Apartment Size Refrigerator with Freezer, 7.2 cu ft, Platinum Series, Stainless Steel",
+      "Price": "$849.00",
+      "Product Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac massa eget urna tempor vehicula vel id nisi. Pellentesque sed felis auctor, molestie lectus vitae, elementum orci. In et nunc consequat, semper.",
+      "Product Features": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Ut elit tellus, luctus nec ullamcorper mattis."
+      ]
+    }
+  ],
+  "AirConditioner": [
+    {
+      "id": 1,
+      "Category": "AirConditioner",
+      "Product Title": "Air Conditioner 5000 BTU, Efficient Cooling for Smaller Areas Like Bedrooms and Guest Rooms",
+      "Price": "$139.00",
+      "Product Description": "More about the product\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac massa eget urna tempor vehicula vel id nisi. Pellentesque sed felis auctor, molestie lectus vitae, elementum orci. In et nunc consequat, semper.",
+      "Product Features": [
+        "Newest technology",
+        "Best in class components",
+        "Dimensions - 69.5 x 75.0 x 169.0",
+        "Maintenance free",
+        "12 years warranty"
+      ]
+    },
+    {
+      "id": 2,
+      "Category": "AirConditioner",
+      "Product Title": "Dual Hose Portable Air Conditioner, Dehumidifier, Fan with Activated Carbon Filter in Platinum",
+      "Price": "$149.00",
+      "Product Description": "More about the product\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac massa eget urna tempor vehicula vel id nisi. Pellentesque sed felis auctor, molestie lectus vitae, elementum orci. In et nunc consequat, semper.",
+      "Product Features": [
+        "Newest technology",
+        "Best in class components",
+        "Dimensions - 69.5 x 75.0 x 169.0",
+        "Maintenance free",
+        "12 years warranty"
+      ]
+    },
+    {
+      "id": 3,
+      "Category": "AirConditioner",
+      "Product Title": "Star 9,500 BTU 115V Dual Inverter Window Air Conditioner with Wi-Fi Control",
+      "Price": "$199.00",
+      "Product Description": "More about the product\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac massa eget urna tempor vehicula vel id nisi. Pellentesque sed felis auctor, molestie lectus vitae, elementum orci. In et nunc consequat, semper.",
+      "Product Features": [
+        "Newest technology",
+        "Best in class components",
+        "Dimensions - 69.5 x 75.0 x 169.0",
+        "Maintenance free",
+        "12 years warranty"
+      ]
+    }
+  ],
+  "Smartphone": [
+    {
+      "id": 1,
+      "Category": "SmartPhone",
+      "Product Title": "Note 10 Pro 128GB 6GB RAM Factory Unlocked (GSM ONLY) International Model",
+      "Price": "$659.00",
+      "Product Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac massa eget urna tempor vehicula vel id nisi. Pellentesque sed felis auctor, molestie lectus vitae, elementum orci. In et nunc consequat, semper.",
+      "Product Features": [
+        "Newest technology",
+        "Best in class components",
+        "Dimensions - 69.5 x 75.0 x 169.0",
+        "Maintenance free",
+        "12 years warranty"
+      ]
+    },
+    {
+      "id": 2,
+      "Category": "SmartPhone",
+      "Product Title": "5G Factory Unlocked Android Cell Phone 128GB Pro-Grade Camera 30X Space Zoom Night Mode, Space Grey",
+      "Price": "$999.00",
+      "Product Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac massa eget urna tempor vehicula vel id nisi. Pellentesque sed felis auctor, molestie lectus vitae, elementum orci. In et nunc consequat, semper.",
+      "Product Features": [
+        "Newest technology",
+        "Best in class components",
+        "Dimensions - 69.5 x 75.0 x 169.0",
+        "Maintenance free",
+        "12 years warranty"
+      ]
+    }
+  ],
+  "Kitchenappliances": [
+    {
+      "id": 1,
+      "Category": "KitchenAppliances",
+      "Product Title": "0.9 Cubic Feet Capacity 900 Watts Kitchen Essentials for the Countertop Stainless Steel",
+      "Price": "$559.00",
+      "Product Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac massa eget urna tempor vehicula vel id nisi. Pellentesque sed felis auctor, molestie lectus vitae, elementum orci. In et nunc consequat, semper.",
+      "Product Features": [
+        "Newest technology",
+        "Best in class components",
+        "Dimensions - 69.5 x 75.0 x 169.0",
+        "Maintenance free",
+        "12 years warranty"
+      ]
+    },
+    {
+      "id": 2,
+      "Category": "KitchenAppliances",
+      "Product Title": "2 Door Apartment Size Refrigerator with Freezer, 7.2 cu ft, Platinum Series, Stainless Steel",
+      "Price": "$849.00",
+      "Product Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac massa eget urna tempor vehicula vel id nisi. Pellentesque sed felis auctor, molestie lectus vitae, elementum orci. In et nunc consequat, semper.",
+      "Product Features": [
+        "Newest technology",
+        "Best in class components",
+        "Dimensions - 69.5 x 75.0 x 169.0",
+        "Maintenance free",
+        "12 years warranty"
+      ]
+    }
+  ],
+  "Homeappliances": [
+    {
+      "id": 1,
+      "Category": "HomeAppliances",
+      "Product Title": "Multigroomer All-in-One Trimmer Series 5000, 23 Piece Mens Grooming Kit",
+      "Price": "$44.00",
+      "Product Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac massa eget urna tempor vehicula vel id nisi. Pellentesque sed felis auctor, molestie lectus vitae, elementum orci. In et nunc consequat, semper. Nunc sed justo Cras vehicula semper ex, et fermentum tortor varius eget interdum et malesuada fames ac ante tellus eget. Product's Features Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.",
+      "Product Features": "Nunc sed justo at nisi commodo varius, Ut eu urna enim. Curabitur posuere fermentum, Curabitur at orci nec urna aliquet porta"
+    }
+  ],
+  "PCslaptop": [
+    {
+      "id": 1,
+      "Category": "Pcs&Laptop",
+      "Product Title": "13 Ultrabook Gaming Laptop: Intel Core i7-1165G7 4 Core, NVIDIA GeForce GTX 1650 Ti Max-Q, 13.3\" 1080p 120Hz, 16GB RAM, 512GB SSD, CNC Aluminum, Chroma RGB, Thunderbolt 4",
+      "Price": "$1,399.00",
+      "Product Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac massa eget urna tempor vehicula vel id nisi. Pellentesque sed felis auctor, molestie lectus vitae, elementum orci. In et nunc consequat, semper.",
+      "Product Features": [
+        "Newest technology",
+        "Best in class components",
+        "Dimensions - 69.5 x 75.0 x 169.0",
+        "Maintenance free",
+        "12 years warranty"
+      ]
+    },
+    {
+      "id": 2,
+      "Category": "Pcs&Laptop",
+      "Product Title": "14\" FHD Ultrabook (400 nits) with 10th Gen Intel i7-10510U Processor up to 4.90 GHz, 1 TB PCIe SSD, 16GB RAM, and Windows 11 Pro",
+      "Price": "$1,099.00",
+      "Product Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac massa eget urna tempor vehicula vel id nisi. Pellentesque sed felis auctor, molestie lectus vitae, elementum orci. In et nunc consequat, semper.",
+      "Product Features": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis. Nunc sed justo at nisi commodo varius. Ut eu urna enim. Curabitur posuere fermentum. Curabitur at orci nec urna aliquet porta. Lorem ipsum dolor. Nam bibendum augue pharetra ultrices. Ut eu urna enim. Curabitur posuere fermentum libero, pretium dignissim est lacinia nec. Aenean dapibus ante sed pharetra scelerisque."
+    }
+  ],
+  "Smarthome": [
+    {
+      "id": 1,
+      "Category": "SmartHome",
+      "Product Title": "Health and Fitness Smartwatch with Heart Rate, Music, Alexa Built-In, Sleep and Swim Tracking",
+      "Price": "$129.00",
+      "Product Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac massa eget urna tempor vehicula vel id nisi. Pellentesque sed felis auctor, molestie lectus vitae, elementum orci. In et nunc consequat, semper.",
+      "Product Features": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.\r\n\r\nNunc sed justo at nisi commodo varius\r\n\r\nUt eu urna enim. Curabitur posuere fermentum\r\n\r\nCurabitur at orci nec urna aliquet porta"
+    },
+    {
+      "id": 2,
+      "Category": "SmartHome",
+      "Product Title": "Home Speaker 500: Smart Bluetooth Speaker with Alexa Voice Control Built-In, White",
+      "Price": "$209.00",
+      "Product Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac massa eget urna tempor vehicula vel id nisi. Pellentesque sed felis auctor, molestie lectus vitae, elementum orci. In et nunc consequat, semper.",
+      "Product Features": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis."
+    }
+  ]
+}
